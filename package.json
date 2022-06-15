@@ -20,5 +20,8 @@
   },
   "dependencies": {
     "@openzeppelin/contracts": "^4.6.0"
+  },
+  "engines":{
+    "node": "16.15.1"
   }
 }
